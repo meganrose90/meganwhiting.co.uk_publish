@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://megan.ieuanjenkins.com/2019/05/lets-talk-wedding-poetry/</loc>
+    <lastmod>2019-05-28T13:20:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://megan.ieuanjenkins.com/</loc>
+    <lastmod>2019-05-28T13:20:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://megan.ieuanjenkins.com/2019/03/30-tips-for-the-self-employed/</loc>
     <lastmod>2019-03-13T11:14:08+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,14 +66,7 @@
   </url>
   
   <url>
-    <loc>https://megan.ieuanjenkins.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://megan.ieuanjenkins.com/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
@@ -70,15 +77,13 @@
   </url>
   
   <url>
-    <loc>https://megan.ieuanjenkins.com/</loc>
-    <lastmod>2019-03-13T11:14:08+00:00</lastmod>
+    <loc>https://megan.ieuanjenkins.com/my-background/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://megan.ieuanjenkins.com/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
